@@ -1,3 +1,0 @@
-name=bank
-description=Classic bank application example
-description2=Tables: User, Customer, Account, Operation, etc.

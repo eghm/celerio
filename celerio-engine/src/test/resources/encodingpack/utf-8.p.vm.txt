@@ -1,2 +1,0 @@
-$output.file("utf-8.txt")##
-été hivers
